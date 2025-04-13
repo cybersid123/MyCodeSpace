@@ -1,1 +1,7 @@
-
+"""
+reportlab==4.0.4
+pillow==10.0.0
+SQLAlchemy==2.0.20
+python-dotenv==1.0.0
+qrcode==7.4.2
+"""
