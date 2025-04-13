@@ -1,5 +1,5 @@
-A simple yet functional blog with user authentication, posts, and comments.
-Features
+A simple yet functional blog with user authentication, posts, and comments. (Work in Progress)
+.Features
 
 ✅ User registration & login (with Flask-Login)
 ✅ Create, edit, and delete blog posts
